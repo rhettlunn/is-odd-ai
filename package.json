@@ -1,18 +1,27 @@
 {
-  "name": "is-odd-ai",
+  "name": "@rhettlunn/is-odd-ai",
   "version": "1.0.0",
-  "description": "",
+  "description": "Why check if something is odd simply, when you can do it with ✨AI✨",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "axios": "^1.7.2",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "mocha": "^10.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhettlunn/is-odd-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rhettlunn/is-odd-ai/issues"
+  },
+  "homepage": "https://github.com/rhettlunn/is-odd-ai#readme"
 }
+
