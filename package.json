@@ -1,6 +1,6 @@
 {
-  "name": "@rhettlunn/is-odd-ai",
-  "version": "1.0.1",
+  "name": "is-odd-ai",
+  "version": "1.0.2",
   "description": "Why check if something is odd simply, when you can do it with ✨AI✨",
   "main": "index.js",
   "scripts": {
