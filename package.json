@@ -1,6 +1,6 @@
 {
   "name": "@rhettlunn/is-odd-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Why check if something is odd simply, when you can do it with ✨AI✨",
   "main": "index.js",
   "scripts": {
@@ -24,4 +24,3 @@
   },
   "homepage": "https://github.com/rhettlunn/is-odd-ai#readme"
 }
-
